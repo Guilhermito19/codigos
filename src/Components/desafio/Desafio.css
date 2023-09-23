@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+.tela {
+  display: block;
+  background-color: blueviolet;
+  width: 100vw;
+  height: 100vh;
+}
+
+.dot {
+  display: block;
+  height: 10px;
+  width: 10px;
+  background-color: red;
+  border-radius: 50%;
+
+  position: absolute;
+}

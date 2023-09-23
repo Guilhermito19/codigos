@@ -1,0 +1,22 @@
+.pokemonCage {
+  height: 100px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokemonCage:img {
+  right: 10px;
+}
+
+.pokemonCageMap {
+  height: 100px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 5px;
+
+}
